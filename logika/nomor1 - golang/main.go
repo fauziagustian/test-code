@@ -21,7 +21,7 @@ func main() {
 	// score := 80
 	//var kelipatan string
 
-	for i := 3; i <= 30; i++ {
+	for i := 2; i <= 30; i++ {
 		if (i%3 == 0) && (i%7 == 0) {
 			fmt.Println("Z")
 		}
