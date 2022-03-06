@@ -16,3 +16,16 @@ nomor 5
 ![image](https://user-images.githubusercontent.com/64592796/156935342-e6c7ada2-055d-42bf-830d-1a92f88f2a2c.png)
 ![image](https://user-images.githubusercontent.com/64592796/156935365-6de45612-dcaa-45c7-b1d5-bb9386fefdad.png)
 ![image](https://user-images.githubusercontent.com/64592796/156935380-7b22aa4a-c7a0-4dda-b6ed-9aa94000d0ad.png)
+
+
+test web
+
+![image](https://user-images.githubusercontent.com/64592796/156935473-9148d64e-d310-4d9b-b863-be2d4f40499e.png)
+![image](https://user-images.githubusercontent.com/64592796/156935501-9f9f43c7-900a-49d9-b2e2-e343a84671a1.png)
+ambil dari galeri
+![image](https://user-images.githubusercontent.com/64592796/156935514-d301be57-917a-49f2-b9a7-913de16e4ffa.png)
+crop foto
+![image](https://user-images.githubusercontent.com/64592796/156935521-6c449c08-318f-4d77-95a4-08d9bfab4ad9.png)
+hasil setelah disimpan
+![image](https://user-images.githubusercontent.com/64592796/156935538-dde838a0-890b-4095-9470-323e0274ce4d.png)
+
